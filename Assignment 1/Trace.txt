@@ -1,3 +1,5 @@
+DiningPhilosophers 2 0 0 0 0
+
 Philosopher 0 thinks for 37 units
 Philosopher 1 thinks for 32 units
 Philosopher 1 requests right chopstick
